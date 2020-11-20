@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo Site</title>
+    <title>sqy9248</title>
     <link>https://sqy9248.github.io/</link>
-    <description>Recent content on A Hugo Site</description>
+    <description>Recent content on sqy9248</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This is a customized copyright.</copyright>
+    <copyright>2020 sqy9248</copyright>
     <lastBuildDate>Fri, 20 Nov 2020 13:24:52 +0800</lastBuildDate>
     
         <atom:link href="https://sqy9248.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,8 @@
         <pubDate>Fri, 20 Nov 2020 13:24:52 +0800</pubDate>
         
         <guid>https://sqy9248.github.io/posts/test/</guid>
-        <description>A Hugo Site https://sqy9248.github.io/posts/test/ -&lt;p&gt;Hello World&lt;/p&gt;
-- https://sqy9248.github.io/posts/test/ - This is a customized copyright.</description>
+        <description>sqy9248 https://sqy9248.github.io/posts/test/ -&lt;p&gt;Hello World&lt;/p&gt;
+- https://sqy9248.github.io/posts/test/ - 2020 sqy9248</description>
         </item>
     
     
